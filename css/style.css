@@ -1,0 +1,22 @@
+/* starter */
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+div img{
+  width: 60%;
+}
+div .container{
+  display: inline-block;
+  max-width: 40vw;
+  min-width: 40vw;
+}
+
+
